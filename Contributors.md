@@ -30,6 +30,7 @@ Rich Herbert
 - [Eren Jaegar](https://github.com/erenjaegar)
 - [Nishit Majithia] (https://github.com/nishitm)
 - [CJ Baquiran](https://github.com/CyjKun)
+- [samuji] (https://github.com/SamujiAarnio)
 - [Krishna kunal](https://github.com/krish-kunal)
 - [Bruno Vasconcelos](https://github.com/brunohgv)
 - [Kegjams](https://github.com/Kegjams)
